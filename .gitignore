@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+dist/
+.eslintcache
+.vscode
+.idea
+dev.env
+prod.env
